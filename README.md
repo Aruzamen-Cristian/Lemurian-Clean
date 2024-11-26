@@ -6,7 +6,7 @@ Lemurian Clean es una solución autónoma y eficiente para la recogida de desech
 
 #### Características Principales
 
-**Cámara ESP-CAM: **Proporciona capacidad de visión para la navegación y detección de desechos.
+**Cámara ESP-CAM:** Proporciona capacidad de visión para la navegación y detección de desechos.
 
 **Propulsión con Hélices:** Permite un movimiento eficiente y controlado en el agua.
 
@@ -16,11 +16,11 @@ Lemurian Clean es una solución autónoma y eficiente para la recogida de desech
 
 -  **ESP32-CAM:** Proporciona capacidad de visión para la navegación y detección de desechos.
 
--  **ESP32: **Utiliza un ESP32 para controlar los drivers y motores del robot, asegurando una operación eficiente y precisa.
+-  **ESP32:** Utiliza un ESP32 para controlar los drivers y motores del robot, asegurando una operación eficiente y precisa.
 
--  **Motores y Hélices: **Para la propulsión del robot.
+-  **Motores y Hélices:** Para la propulsión del robot.
 
-- **Cinta Transportadora: **Para la recogida de basura.
+- **Cinta Transportadora:** Para la recogida de basura.
 
 - **Chasis y Carcasa:** Estructura resistente al agua y flotante.
 
