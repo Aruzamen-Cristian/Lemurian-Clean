@@ -6,7 +6,7 @@ Lemurian Clean es una solución autónoma y eficiente para la recogida de desech
 
 #### Características Principales
 
-**Cámara ESP-CAM: **Proporciona capacidad de visión para la navegación y detección de desechos.
+**Cámara ESP-CAM:** Proporciona capacidad de visión para la navegación y detección de desechos.
 
 **Propulsión con Hélices:** Permite un movimiento eficiente y controlado en el agua.
 
