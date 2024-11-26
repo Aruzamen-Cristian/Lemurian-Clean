@@ -150,7 +150,7 @@ void Parar() {
 ```
 
 > Explicación:
-Control de Motores: Estas funciones controlan la dirección de los motores para mover el robot hacia adelante, atrás, izquierda, derecha, o detenerlo. Usan `digitalWrite() `para cambiar el estado de los pines.
+Control de Motores: Estas funciones controlan la dirección de los motores para mover el robot hacia adelante, atrás, izquierda, derecha, o detenerlo. Usan `digitalWrite()`para cambiar el estado de los pines.
 
 ### Diseño del PCB
 Los archivos del diseño del PCB están ubicados en la carpeta `PCB`. Puedes descargar los archivos y el diagrama esquemático para fabricar y ensamblar tu propia placa.
