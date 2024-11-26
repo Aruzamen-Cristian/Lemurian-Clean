@@ -25,7 +25,7 @@ Lemurian Clean es una solución autónoma y eficiente para la recogida de desech
 - **Chasis y Carcasa:** Estructura resistente al agua y flotante.
 
 #### Código del Robot
-Podes encontrar el código completo del robot en la carpeta `Código` del repositorio.
+Podes encontrar el código completo del robot en la carpeta `Codigo LC` del repositorio.
 
 ##### Función de Callback para Bluetooth
 
