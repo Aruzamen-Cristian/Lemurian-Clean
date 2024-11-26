@@ -1,10 +1,10 @@
-## Lemurian Clean
+# Lemurian Clean
 
-#### Descripción del Proyecto
+### Descripción del Proyecto
 
 Lemurian Clean es una solución autónoma y eficiente para la recogida de desechos en cuerpos de agua. Equipado con una cámara ESP-CAM y hélices para su movilidad, el robot navega por el agua recogiendo desechos con una cinta transportadora.
 
-#### Características Principales
+### Características Principales
 
 **Cámara ESP-CAM:** Proporciona capacidad de visión para la navegación y detección de desechos.
 
@@ -12,7 +12,7 @@ Lemurian Clean es una solución autónoma y eficiente para la recogida de desech
 
 **Cinta Transportadora:** Recolecta desechos desde la superficie del agua y los almacena en un contenedor interno.
 
-#### Hardware del Proyecto
+### Hardware del Proyecto
 
 -  **ESP32-CAM:** Proporciona capacidad de visión para la navegación y detección de desechos.
 
@@ -24,10 +24,10 @@ Lemurian Clean es una solución autónoma y eficiente para la recogida de desech
 
 - **Chasis y Carcasa:** Estructura resistente al agua y flotante.
 
-#### Código del Robot
+### Código del Robot
 Podes encontrar el código completo del robot en la carpeta `Codigo LC` del repositorio.
 
-##### Función de Callback para Bluetooth
+#### Función de Callback para Bluetooth
 
 ```c
 void callback_function(esp_spp_cb_event_t event, esp_spp_cb_param_t *param) {
@@ -48,7 +48,7 @@ void callback_function(esp_spp_cb_event_t event, esp_spp_cb_param_t *param) {
 > Explicacion:
 Esta función maneja diferentes eventos del Bluetooth, como la inicialización, conexión y recepción de datos. Es crucial para interactuar con dispositivos Bluetooth.
 
-##### Función setup()
+#### Función setup()
 ```c
 void setup() {
   Serial.begin(115200);     // Inicializando la conexión serial para debug
@@ -69,7 +69,7 @@ void setup() {
 > Configuración de Pines: Se configuran los pines de los motores como salidas.
 > Inicialización del Sensor: Se inicializa el sensor de celda de carga y se calibra la escala.
 
-##### Función loop()
+#### Función loop()
 ```c
 void loop() {
   if (BT.available())  // Compruebe si recibimos algo de Bluetooth
@@ -114,7 +114,7 @@ void loop() {
 > Explicación:
 Recepción de Comandos: La función `loop()` verifica si se han recibido datos por Bluetooth y actúa según el comando recibido. Dependiendo del comando, se ejecutan funciones para mover el robot hacia adelante, atrás, izquierda, derecha, o detenerse.
 
-##### Funciones de Control de Motores
+#### Funciones de Control de Motores
 ```c
 void Adelante() {
   digitalWrite(Motor1a, HIGH);
@@ -152,10 +152,10 @@ void Parar() {
 > Explicación:
 Control de Motores: Estas funciones controlan la dirección de los motores para mover el robot hacia adelante, atrás, izquierda, derecha, o detenerlo. Usan `digitalWrite() `para cambiar el estado de los pines.
 
-#### Diseño del PCB
+### Diseño del PCB
 Los archivos del diseño del PCB están ubicados en la carpeta `PCB`. Puedes descargar los archivos y el diagrama esquemático para fabricar y ensamblar tu propia placa.
 
-#### Uso
+### Uso
 1. Encender el robot y asegurarse de que todos los sistemas están operativos.
 
 3. Colocar el robot en el agua y activarlo.
