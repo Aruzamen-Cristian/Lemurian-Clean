@@ -163,4 +163,4 @@ Los archivos del diseño del PCB están ubicados en la carpeta `PCB`. Puedes des
 5. Supervisar su operación a través de la cámara ESP-CAM y ajustar si es necesario.
 
 #### Contacto
-Para más información o preguntas sobre Lemurian Clean, puedes contactarnos en [ aruzamencristianmarcelo@gmail.com ].
+Para más información o preguntas sobre Lemurian Clean, puedes contactarnos en [ aruzamencristianmarcelo@gmail.com ], [damian34casas@gmail.com].
