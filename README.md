@@ -4,6 +4,8 @@
 
 Lemurian Clean es una solución autónoma y eficiente para la recogida de desechos en cuerpos de agua. Equipado con una cámara ESP-CAM y hélices para su movilidad, el robot navega por el agua recogiendo desechos con una cinta transportadora.
 
+[![modelo3d](https://cdn.discordapp.com/attachments/764428029907697674/1312109408221921310/image.png?ex=674b4c9c&is=6749fb1c&hm=afc8e5852c0a428d3898343387bf875bf2933bb03627be2158ba6f2bbb948278& "modelo3d")](https://cdn.discordapp.com/attachments/764428029907697674/1312109408221921310/image.png?ex=674b4c9c&is=6749fb1c&hm=afc8e5852c0a428d3898343387bf875bf2933bb03627be2158ba6f2bbb948278& "modelo3d")
+
 ### Características Principales
 
 **Cámara ESP-CAM:** Proporciona capacidad de visión para la navegación y detección de desechos.
