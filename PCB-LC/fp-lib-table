@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "C:/Users/lapeligrosa/Downloads/ESP32-DEVKIT-V1")(options "")(descr ""))
-  (lib (name "EESTN5")(type "KiCad")(uri "C:/Users/lapeligrosa/Downloads/Colegio/Librerias-Kicad-master/EESTN5.pretty")(options "")(descr ""))
-)
