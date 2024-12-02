@@ -157,10 +157,10 @@ Control de Motores: Estas funciones controlan la dirección de los motores para 
 ### Diseño del PCB
 Los archivos del diseño del PCB están ubicados en la carpeta `PCB`. Puedes descargar los archivos y el diagrama esquemático para fabricar y ensamblar tu propia placa.
 
-![vdd](https://cdn.discordapp.com/attachments/764428029907697674/1313201975189569557/image.png?ex=674f4624&is=674df4a4&hm=c4c9785e719c4e29cbe05ebfeb86fcc9e92f23ba337f6e6f21a5cafe77175768& "vdd")
+![vdd](https://cdn.discordapp.com/attachments/764428029907697674/1313203542303051866/image.png?ex=674f479a&is=674df61a&hm=b0168fd87d1c546b8bf0e078cbec903b45f046837bd8b8e10d6ea27db589d3e3& "vdd")
 > PCBv4 Capa Superior
 
-![](https://cdn.discordapp.com/attachments/764428029907697674/1313202069535985734/image.png?ex=674f463b&is=674df4bb&hm=8852754c9514f7d6329e5bf31ba49b03e005f12a440c9231845e0d91ca9cde09&)
+![](https://cdn.discordapp.com/attachments/764428029907697674/1313203198168793128/image.png?ex=674f4748&is=674df5c8&hm=820f8bad63979d715dffeeb4abd32cc8a6a5bcb0a996e14bb644c7c0f2f4adc4&)
 > PCBv4 Capa Inferior
 
 ### Uso
